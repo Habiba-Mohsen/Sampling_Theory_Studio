@@ -35,14 +35,6 @@
 
 
 
-## Contributors
- <a href="https://github.com/Habiba-Mohsen">
-    <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="Habiba Mohsen">
-  </a>
-  <a href="https://github.com/mohandemadx">
-    <img src="https://github.com/mohandemadx.png" width="100px" alt="Mohand Emad">
-  </a>
-
 ## Acknowledgments
 
 **This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish, who provided invaluable guidance and expertise throughout its development as a part of the Digital Signal Processing course at Cairo University Faculty of Engineering.**
